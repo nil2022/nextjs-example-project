@@ -14,3 +14,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     Learned how to optimize fonts and images using Next.js.
 4. **23-01-2024** - Chapter 4
     Created Layouts and Pages
+5. **23-01-2024** - Chapter 5
+    Navigating between Pages
