@@ -6,13 +6,25 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## Timeline
 
-1. **09-11-2023** - Chapter 1
+- _**09-11-2023**_
+
+1. **Chapter 1**
     Set up the Next.js app and create a basic dashboard.
-2. **10-11-2023** - Chapter 2
+
+- _**10-11-2023**_
+
+1. **Chapter 2**
     Styling using CSS
-3. **23-01-2024** - Chapter 3
+
+- _**23-01-2024**_
+
+1. **Chapter 3**
     Learned how to optimize fonts and images using Next.js.
-4. **23-01-2024** - Chapter 4
+2. **Chapter 4**
     Created Layouts and Pages
-5. **23-01-2024** - Chapter 5
+3. **Chapter 5**
     Navigating between Pages
+4. **Chapter 6**
+    Setting up Database (Postgres)
+5. **Chapter 7**
+    Fetching Data into Application
