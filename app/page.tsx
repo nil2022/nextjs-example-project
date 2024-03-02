@@ -16,7 +16,8 @@ export default function Page() {
         <div className={styles.shape}></div>
           <p className={`${lusitana.className} text-xl text-gray-900 md:text-3xl md:leading-normal`}>
             <strong>Welcome to Acme.</strong> This is the example for the{' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
+            <a href="https://nextjs.org/learn/" 
+            target="_blank" rel="noopener noreferrer" className="text-blue-500">
               Next.js Learn Course
             </a>
             , brought to you by Vercel.
@@ -27,6 +28,12 @@ export default function Page() {
           >
             <span>Log in</span> <ArrowRightIcon className="w-5 md:w-6" />
           </Link>
+          <Link
+            href="/dashboard"
+            className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
+          >
+            <span>Dashboard</span> <ArrowRightIcon className="w-5 md:w-6" />
+          </Link>
         </div>
         <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
           {/* Add Hero Images Here */}
@@ -35,14 +42,14 @@ export default function Page() {
             width={1000}
             height={760}
             className='hidden md:block'
-            alt='Screenshots of the dashboard project showing desktop version'
+            alt='Screenshot of the dashboard project showing desktop version'
             />
           <Image
             src="/hero-mobile.png"
             width={560}
             height={620}
             className='block md:hidden'
-            alt='Screenshots of the dashboard project showing mobile version'
+            alt='Screenshot of the dashboard project showing mobile version'
             />
         </div>
       </div>
