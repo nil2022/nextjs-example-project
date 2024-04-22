@@ -28,3 +28,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     Setting up Database (Postgres)
 5. **Chapter 7**
     Fetching Data into Application
+
+- _**22-04-2024**_
+
+1. **Chapter 8**
+    Static and Dynamic Rendering
+2. **Chapter 9**
+    Streaming Data
