@@ -35,3 +35,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
     Static and Dynamic Rendering
 2. **Chapter 9**
     Streaming Data
+3. **Chapter 11**
+    Adding Search and Pagination
