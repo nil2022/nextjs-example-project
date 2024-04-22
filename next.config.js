@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     // The command [next build] is used to export to 'out' directory for Static Site Hosting as a SPA(Single Page Application)
-    output: "export",
+    // output: "export",
 
     // To optimize images
     images: {
